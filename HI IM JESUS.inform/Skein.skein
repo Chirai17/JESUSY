@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x2a9630" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x1dfcd0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x7e9f0c0" />
-  <item nodeId="node-0x2a9630">
+  <activeNode nodeId="node-0xd163eb0" />
+  <item nodeId="node-0x1dfcd0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -12,19 +12,52 @@ An Interactive Fiction by Roboninja101
 Release 1 / Serial number 141020 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
 Your Cell
+You can see Cell Door here.
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="3">NO</temporary>
+    <changed>NO</changed>
+    <temporary score="24">NO</temporary>
     <children>
-      <child nodeId="node-0x2a9680" />
-      <child nodeId="node-0x7b8b1f0" />
-      <child nodeId="node-0x2a97d0" />
-      <child nodeId="node-0x2a9720" />
+      <child nodeId="node-0x1b5dc0" />
+      <child nodeId="node-0x1aea20" />
+      <child nodeId="node-0x81df2c0" />
+      <child nodeId="node-0x1deca0" />
+      <child nodeId="node-0x1dec50" />
+      <child nodeId="node-0x81cb7f0" />
     </children>
   </item>
-  <item nodeId="node-0x2a9720">
+  <item nodeId="node-0x81cb7f0">
+    <command xml:space="preserve">take shard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x8106900" />
+    </children>
+  </item>
+  <item nodeId="node-0x8106900">
+    <command xml:space="preserve">open matress with shard</command>
+    <result xml:space="preserve">That doesn&apos;t seem to be something you can unlock.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0xd163eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0xd163eb0">
+    <command xml:space="preserve">take all</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+  </item>
+  <item nodeId="node-0x1dec50">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">There are none at all available!
 
@@ -33,7 +66,7 @@ Your Cell
     <changed>YES</changed>
     <temporary score="5">YES</temporary>
   </item>
-  <item nodeId="node-0x2a97d0">
+  <item nodeId="node-0x1deca0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Hospital Hallway
@@ -43,10 +76,10 @@ Hospital Hallway
     <changed>YES</changed>
     <temporary score="3">YES</temporary>
     <children>
-      <child nodeId="node-0x2a9840" />
+      <child nodeId="node-0x1ae9d0" />
     </children>
   </item>
-  <item nodeId="node-0x2a9840">
+  <item nodeId="node-0x1ae9d0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Your Cell
@@ -56,7 +89,75 @@ Your Cell
     <changed>YES</changed>
     <temporary score="2">YES</temporary>
   </item>
-  <item nodeId="node-0x7b8b1f0">
+  <item nodeId="node-0x81df2c0">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x8166050" />
+    </children>
+  </item>
+  <item nodeId="node-0x8166050">
+    <command xml:space="preserve">take shard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x7aedc60" />
+    </children>
+  </item>
+  <item nodeId="node-0x7aedc60">
+    <command xml:space="preserve">cut mattress with shard</command>
+    <result xml:space="preserve">I only understood you as far as wanting to cut mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x81be330" />
+    </children>
+  </item>
+  <item nodeId="node-0x81be330">
+    <command xml:space="preserve">cutt matress with glass shard</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x81e95a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x81e95a0">
+    <command xml:space="preserve">cut mattress with glass shard</command>
+    <result xml:space="preserve">I only understood you as far as wanting to cut mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x8153f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x8153f60">
+    <command xml:space="preserve">open matress with shard</command>
+    <result xml:space="preserve">x
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14">YES</temporary>
+  </item>
+  <item nodeId="node-0x1aea20">
     <command xml:space="preserve">OPEN matress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
@@ -65,16 +166,16 @@ Your Cell
     <changed>YES</changed>
     <temporary score="3">YES</temporary>
     <children>
-      <child nodeId="node-0x7e9f0c0" />
+      <child nodeId="node-0x1aea90" />
     </children>
   </item>
-  <item nodeId="node-0x7e9f0c0">
+  <item nodeId="node-0x1aea90">
     <command xml:space="preserve">cut matress</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="2">YES</temporary>
   </item>
-  <item nodeId="node-0x2a9680">
+  <item nodeId="node-0x1b5dc0">
     <command xml:space="preserve">open  matress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
@@ -83,10 +184,10 @@ Your Cell
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x2a96d0" />
+      <child nodeId="node-0x1c4490" />
     </children>
   </item>
-  <item nodeId="node-0x2a96d0">
+  <item nodeId="node-0x1c4490">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
