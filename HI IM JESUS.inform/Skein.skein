@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x2a9630" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x7e9f0c0" />
+  <item nodeId="node-0x2a9630">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+HI IM JESUS
+An Interactive Fiction by Roboninja101
+Release 1 / Serial number 141020 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Your Cell
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3">NO</temporary>
+    <children>
+      <child nodeId="node-0x2a9680" />
+      <child nodeId="node-0x7b8b1f0" />
+      <child nodeId="node-0x2a97d0" />
+      <child nodeId="node-0x2a9720" />
+    </children>
+  </item>
+  <item nodeId="node-0x2a9720">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">There are none at all available!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+  </item>
+  <item nodeId="node-0x2a97d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital Hallway
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3">YES</temporary>
+    <children>
+      <child nodeId="node-0x2a9840" />
+    </children>
+  </item>
+  <item nodeId="node-0x2a9840">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2">YES</temporary>
+  </item>
+  <item nodeId="node-0x7b8b1f0">
+    <command xml:space="preserve">OPEN matress</command>
+    <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3">YES</temporary>
+    <children>
+      <child nodeId="node-0x7e9f0c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7e9f0c0">
+    <command xml:space="preserve">cut matress</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2">YES</temporary>
+  </item>
+  <item nodeId="node-0x2a9680">
+    <command xml:space="preserve">open  matress</command>
+    <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x2a96d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2a96d0">
+    <command xml:space="preserve">open mattress</command>
+    <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+</Skein>
