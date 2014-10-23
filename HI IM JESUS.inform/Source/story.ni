@@ -13,16 +13,18 @@ mattress is a closed container on bed. it is scenery. Mattress can be locked or 
 	
 Mirror is scenery in your cell. it is undescribed. description is "You look into the cracked, bloody mirror and see your reflection."
 
-instead of examining Mirror:
-	when examining mirror for the first time:
-		move glass shard to mirror:
-		
-
 Glass Shard is a thing in swagbox. it is undescribed.
 Understand "shard" as Glass Shard.
 
-Nail file is a thing in swagbox.
-Letters is a thing in the Dresser.
+After examining mirror for the first time:
+	say "You see a glass shard and pick it up.";
+		move glass shard to player.
+		
+
+
+
+[Nail file is a thing in swagbox.
+Letter is a thing in Dresser.]
 
 
 [understand "cut [something]" as cutting it with.]
@@ -30,10 +32,12 @@ Letters is a thing in the Dresser.
 
 Instead of opening mattress:
 	if player is holding glass shard for the first time:
-		say "Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open,";
+		say "Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.";
 		move Bed Spring to player;
 	if player does not have glass shard:
-		say "You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress."
+		say "You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.";
+	if player is holding bed Spring for the first time:
+		say "x".
 
 
 
