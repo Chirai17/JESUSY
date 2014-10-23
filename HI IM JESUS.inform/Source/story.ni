@@ -2,6 +2,8 @@
 
 Your Cell is a room.
 
+swagroom is a room.
+swagbox is a container in swagroom.
 [furniture]
 Bed is scenery in your cell.
 mattress is scenery in your cell.
@@ -11,19 +13,27 @@ mattress is a closed container on bed. it is scenery. Mattress can be locked or 
 	
 Mirror is scenery in your cell. it is undescribed. description is "You look into the cracked, bloody mirror and see your reflection."
 
-Glass Shard is a thing on mirror. it is undescribed.
+instead of examining Mirror:
+	when examining mirror for the first time:
+		move glass shard to mirror:
+		
+
+Glass Shard is a thing in swagbox. it is undescribed.
 Understand "shard" as Glass Shard.
+
+Nail file is a thing in swagbox.
+Letters is a thing in the Dresser.
+
 
 [understand "cut [something]" as cutting it with.]
 [cut is an action.]
 
-[Instead of cut mattress with Glass Shard:
-	if player is holding glass shard:
+Instead of opening mattress:
+	if player is holding glass shard for the first time:
 		say "Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open,";
-		now mattress is unlocked;
 		move Bed Spring to player;
-	if player is holding Bed Spring:
-		say "y";]
+	if player does not have glass shard:
+		say "You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress."
 
 
 
@@ -56,7 +66,9 @@ The Hospital Hallway is a room.
 [thank you cole 4 da help here]
 Cell Door is west of Hospital hallway and east of Your Cell. Cell Door is a door.
 
-[i hate cole]
 Rule for deciding whether all includes something: it does not.
 [code for ]
-Rule for printing a parser error when the latest parser error is the nothing to do error: say "FUCKING FAGGOT, TRYING TO HACK IN MY GAME! I GET BET YOU USE AIMBOT AND GODMODE IN COD TOO!".
+Rule for printing a parser error when the latest parser error is the nothing to do error: say "bro, really? i hope you feel good about yourself trying to hack.".
+
+
+[FUCKING FAGGOT, TRYING TO HACK IN MY GAME! I GET BET YOU USE AIMBOT AND GODMODE IN COD TOO! SMD YA CUNT!]
