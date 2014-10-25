@@ -1,35 +1,42 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x109940" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x144ea0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x72b0ca0" />
-  <item nodeId="node-0x109940">
+  <activeNode nodeId="node-0x144ea0" />
+  <item nodeId="node-0x144ea0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
+6 Years after first being detained by doctors because of the 2006 incident where you attempted to banish satan (a 10 year old trick or treater) away from this earth, and back to the hell, it is 2012 and you must escape and return to heaven before the almighty father wipes the earth clean over in order to erase all evil.
+
 HI IM JESUS
 An Interactive Fiction by Roboninja101
-Release 1 / Serial number 141022 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+Release 1 / Serial number 141024 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
 Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
 You can see Cell Door here.
 
 &gt;</result>
     <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="31">NO</temporary>
+    <changed>YES</changed>
+    <temporary score="349">NO</temporary>
     <children>
-      <child nodeId="node-0x725c0e0" />
-      <child nodeId="node-0x725c310" />
-      <child nodeId="node-0xb89b7c0" />
-      <child nodeId="node-0x725c020" />
-      <child nodeId="node-0x725bf40" />
-      <child nodeId="node-0x725bea0" />
-      <child nodeId="node-0x725bd40" />
-      <child nodeId="node-0x109990" />
+      <child nodeId="node-0x1176c0" />
+      <child nodeId="node-0x117880" />
+      <child nodeId="node-0x1180d0" />
+      <child nodeId="node-0x118560" />
+      <child nodeId="node-0x8ad9880" />
+      <child nodeId="node-0xac01a60" />
+      <child nodeId="node-0xb2eff70" />
+      <child nodeId="node-0x118640" />
+      <child nodeId="node-0x1186e0" />
+      <child nodeId="node-0x145000" />
+      <child nodeId="node-0x145120" />
     </children>
   </item>
-  <item nodeId="node-0x109990">
+  <item nodeId="node-0x145120">
     <command xml:space="preserve">open matress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
@@ -38,11 +45,11 @@ You can see Cell Door here.
     <changed>YES</changed>
     <temporary score="16">YES</temporary>
     <children>
-      <child nodeId="node-0x725bc80" />
-      <child nodeId="node-0x1099e0" />
+      <child nodeId="node-0x144f40" />
+      <child nodeId="node-0x144ef0" />
     </children>
   </item>
-  <item nodeId="node-0x1099e0">
+  <item nodeId="node-0x144ef0">
     <command xml:space="preserve">take shard</command>
     <result xml:space="preserve">Taken.
 
@@ -51,7 +58,7 @@ You can see Cell Door here.
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
   </item>
-  <item nodeId="node-0x725bc80">
+  <item nodeId="node-0x144f40">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying nothing.
 
@@ -60,16 +67,16 @@ You can see Cell Door here.
     <changed>YES</changed>
     <temporary score="4">YES</temporary>
     <children>
-      <child nodeId="node-0x725bcd0" />
+      <child nodeId="node-0x144f90" />
     </children>
   </item>
-  <item nodeId="node-0x725bcd0">
+  <item nodeId="node-0x144f90">
     <command xml:space="preserve">open mattress</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="3">YES</temporary>
   </item>
-  <item nodeId="node-0x725bd40">
+  <item nodeId="node-0x145000">
     <command xml:space="preserve">open  matress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
@@ -78,10 +85,10 @@ You can see Cell Door here.
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x725bdb0" />
+      <child nodeId="node-0x1187b0" />
     </children>
   </item>
-  <item nodeId="node-0x725bdb0">
+  <item nodeId="node-0x1187b0">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
@@ -90,7 +97,7 @@ You can see Cell Door here.
     <changed>YES</changed>
     <temporary score="9">YES</temporary>
   </item>
-  <item nodeId="node-0x725bea0">
+  <item nodeId="node-0x1186e0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Hospital Hallway
@@ -100,10 +107,10 @@ Hospital Hallway
     <changed>YES</changed>
     <temporary score="3">YES</temporary>
     <children>
-      <child nodeId="node-0x725bef0" />
+      <child nodeId="node-0x118690" />
     </children>
   </item>
-  <item nodeId="node-0x725bef0">
+  <item nodeId="node-0x118690">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Your Cell
@@ -113,7 +120,7 @@ Your Cell
     <changed>YES</changed>
     <temporary score="2">YES</temporary>
   </item>
-  <item nodeId="node-0x725bf40">
+  <item nodeId="node-0x118640">
     <command xml:space="preserve">OPEN matress</command>
     <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
 
@@ -122,39 +129,1147 @@ Your Cell
     <changed>YES</changed>
     <temporary score="3">YES</temporary>
     <children>
-      <child nodeId="node-0x725bfb0" />
+      <child nodeId="node-0x1185d0" />
     </children>
   </item>
-  <item nodeId="node-0x725bfb0">
+  <item nodeId="node-0x1185d0">
     <command xml:space="preserve">cut matress</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="2">YES</temporary>
   </item>
-  <item nodeId="node-0x725c020">
-    <command xml:space="preserve">x mirror</command>
-    <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
-
-You see a glass shard and pick it up.
+  <item nodeId="node-0xb2eff70">
+    <command xml:space="preserve">open dresser</command>
+    <result xml:space="preserve">That&apos;s already open.
 
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="31">YES</temporary>
+    <temporary score="340">YES</temporary>
     <children>
-      <child nodeId="node-0xb85daa0" />
-      <child nodeId="node-0xb8ab9c0" />
-      <child nodeId="node-0x725c150" />
-      <child nodeId="node-0x72b0ca0" />
+      <child nodeId="node-0x165cbfb0" />
     </children>
   </item>
-  <item nodeId="node-0x72b0ca0">
+  <item nodeId="node-0x165cbfb0">
+    <command xml:space="preserve">x dresser</command>
+    <result xml:space="preserve">Dresser is empty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f1930" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f1930">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
+
+You see a glass shard and pick it up, realizing that is could potentially cut things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165b4b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x165b4b10">
+    <command xml:space="preserve">cut matress</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x119b58b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x119b58b0">
+    <command xml:space="preserve">cut bed</command>
+    <result xml:space="preserve">Cutting it up would achieve little.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xacf2540" />
+    </children>
+  </item>
+  <item nodeId="node-0xacf2540">
     <command xml:space="preserve">open mattress</command>
+    <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xb284500" />
+    </children>
+  </item>
+  <item nodeId="node-0xb284500">
+    <command xml:space="preserve">open clee door</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xaca78d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xaca78d0">
+    <command xml:space="preserve">open cell door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xb23fe70" />
+    </children>
+  </item>
+  <item nodeId="node-0xb23fe70">
+    <command xml:space="preserve">unlock cell door</command>
+    <result xml:space="preserve">What do you want to unlock Cell Door with?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xff966f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xff966f0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Bed spring
+  Glass Shard
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xb2a0f70" />
+    </children>
+  </item>
+  <item nodeId="node-0xb2a0f70">
+    <command xml:space="preserve">bed spring</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xaca2e00" />
+    </children>
+  </item>
+  <item nodeId="node-0xaca2e00">
+    <command xml:space="preserve">unlock door with bed spring</command>
+    <result xml:space="preserve">after picking at the lock with that bed spring for a few minutes, you hear a click and the door unlocks.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165abd60" />
+    </children>
+  </item>
+  <item nodeId="node-0x165abd60">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xb2756c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb2756c0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x16571ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16571ea0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Cell Door)
+
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x16577c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x16577c40">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165ed4c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x165ed4c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165af450" />
+    </children>
+  </item>
+  <item nodeId="node-0x165af450">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xb265920" />
+    </children>
+  </item>
+  <item nodeId="node-0xb265920">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hospital Entrance
+The courtyard in front of the Hospital is actually quite beautiful, especially when you&apos;re not stuck in the inside of it. The hospital hallway is to the south, and there&apos;s a road and sidewalk to the north.
+
+&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="30">YES</temporary>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x16387120" />
+    </children>
   </item>
-  <item nodeId="node-0x725c150">
+  <item nodeId="node-0x16387120">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+East Sidewalk
+a sidewalk running next to a very busy street. it probably wouldnt be a good idea to cross the street without a crosswalk. the street is to the north, and the sidewalk leads further to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x23bce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x23bce0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You take about three steps out onto the road, and you get blindsided by a bus and die upon impact. Didnt your mother ever teach you to look both ways before crossing?  idiot...
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xac990e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xac990e0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">East Sidewalk
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xaca23d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xaca23d0">
+    <command xml:space="preserve">i like that</command>
+    <result xml:space="preserve">I only understood you as far as wanting to take inventory.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165f1e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x165f1e50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+west sidewalk
+a sidewalk running next to a very busy street. it probably wouldnt be a good idea to cross the street without a crosswalk. A crosswalk is to the north, and East sidewalk is to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x1656c960" />
+    </children>
+  </item>
+  <item nodeId="node-0x1656c960">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Crosswalk
+Theres nothing like the safety of a sidewalk. could you imagine what might happen if you tried to cross this road without a crosswalk?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x163a6170" />
+    </children>
+  </item>
+  <item nodeId="node-0x163a6170">
+    <command xml:space="preserve">thats all i got</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x1656c190" />
+    </children>
+  </item>
+  <item nodeId="node-0x1656c190">
+    <command xml:space="preserve">ty</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x16382fc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16382fc0">
+    <command xml:space="preserve">try mine its on github</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165bf9e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x165bf9e0">
+    <command xml:space="preserve">ok</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x1656cf90" />
+    </children>
+  </item>
+  <item nodeId="node-0x1656cf90">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x165da880" />
+    </children>
+  </item>
+  <item nodeId="node-0x165da880">
+    <command xml:space="preserve">look at this</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xac9a9a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xac9a9a0">
+    <command xml:space="preserve">bich</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x163a3e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x163a3e80">
+    <command xml:space="preserve">dyrus is actually pretty</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0xff9d7f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xff9d7f0">
+    <command xml:space="preserve">*prety tall</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f7a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f7a90">
+    <command xml:space="preserve">ok bye</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="339">YES</temporary>
+  </item>
+  <item nodeId="node-0xac01a60">
+    <command xml:space="preserve">x bed</command>
+    <result xml:space="preserve">your bed...errr concrete slab. this is where you sleep on an old mattress where the springs poke through the cover.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x74531d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x74531d0">
+    <command xml:space="preserve">x bed</command>
+    <result xml:space="preserve">your bed...errr concrete slab. this is where you sleep on an old mattress where the springs poke through the cover.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x8a6d7a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8a6d7a0">
+    <command xml:space="preserve">x mattress</command>
+    <result xml:space="preserve">Your mattress. this thing is more like a rag bag with a couple of springs stabbing you in the back everytime you lay down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0xac111d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xac111d0">
+    <command xml:space="preserve">open mattress</command>
+    <result xml:space="preserve">You grabbed the end of the mattress at the seams, and pulled as hard as you can, trying to rip it to open, but you couldnt open the mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0xacced20" />
+    </children>
+  </item>
+  <item nodeId="node-0xacced20">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x100f0050" />
+    </children>
+  </item>
+  <item nodeId="node-0x100f0050">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
+
+You see a glass shard and pick it up, realizing that is could potentially cut things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x1002bb10" />
+    </children>
+  </item>
+  <item nodeId="node-0x1002bb10">
+    <command xml:space="preserve">open mattress</command>
+    <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0xacc9e40" />
+    </children>
+  </item>
+  <item nodeId="node-0xacc9e40">
+    <command xml:space="preserve">unlock door with bed spring</command>
+    <result xml:space="preserve">after picking at the lock with that bed spring for a few minutes, you hear a click and the door unlocks
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0xac44950" />
+    </children>
+  </item>
+  <item nodeId="node-0xac44950">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Cell Door)
+
+Hospital hallway
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x10048020" />
+    </children>
+  </item>
+  <item nodeId="node-0x10048020">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Bed spring
+  Glass Shard
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="74">YES</temporary>
+  </item>
+  <item nodeId="node-0x8ad9880">
+    <command xml:space="preserve">x mirro</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="349">YES</temporary>
+    <children>
+      <child nodeId="node-0x36b440" />
+    </children>
+  </item>
+  <item nodeId="node-0x36b440">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
+
+You see a glass shard and pick it up, realizing that is could potentially cut things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="349">YES</temporary>
+    <children>
+      <child nodeId="node-0x35e200" />
+    </children>
+  </item>
+  <item nodeId="node-0x35e200">
+    <command xml:space="preserve">cut mattress with glass shard</command>
+    <result xml:space="preserve">I only understood you as far as wanting to cut mattress.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="348">YES</temporary>
+  </item>
+  <item nodeId="node-0x118560">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
+
+You see a glass shard and pick it up, realizing that is could potentially cut things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x117cf0" />
+      <child nodeId="node-0x118210" />
+      <child nodeId="node-0x1183e0" />
+      <child nodeId="node-0x118430" />
+    </children>
+  </item>
+  <item nodeId="node-0x118430">
+    <command xml:space="preserve">open mattress</command>
+    <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x100ed750" />
+      <child nodeId="node-0x163a6e10" />
+      <child nodeId="node-0x8a7afb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8a7afb0">
+    <command xml:space="preserve">open mattress</command>
+    <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x749a560" />
+    </children>
+  </item>
+  <item nodeId="node-0x749a560">
+    <command xml:space="preserve">unlock cell door with bed spring</command>
+    <result xml:space="preserve">You unlock Cell Door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x100c6ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x100c6ff0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Cell Door)
+
+Hospital hallway
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x8a91dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8a91dd0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+  </item>
+  <item nodeId="node-0x163a6e10">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0xb29b950" />
+    </children>
+  </item>
+  <item nodeId="node-0xb29b950">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">What do you want to unlock Cell Door with?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0xb2d46d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb2d46d0">
+    <command xml:space="preserve">bed spring</command>
+    <result xml:space="preserve">after picking at the lock with that bed spring for a few minutes, you hear a click and the door unlocks.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x165c19b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x165c19b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Cell Door)
+
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x8aceba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8aceba0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hospital Entrance
+The courtyard in front of the Hospital is actually quite beautiful, especially when you&apos;re not stuck in the inside of it. The hospital entrance is to the south, and there&apos;s a road and sidewalk to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0xac10cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0xac10cb0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+East Sidewalk
+a sidewalk running next to a very busy street. it probably wouldnt be a good idea to cross the street without a crosswalk. the street is to the north, and the sidewalk leads further to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x16572070" />
+    </children>
+  </item>
+  <item nodeId="node-0x16572070">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+west sidewalk
+a sidewalk running next to a very busy street. it probably wouldnt be a good idea to cross the street without a crosswalk. A crosswalk is to the north, and East sidewalk is to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0xb214920" />
+    </children>
+  </item>
+  <item nodeId="node-0xb214920">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Crosswalk
+Theres nothing like the safety of a sidewalk. could you imagine what might happen if you tried to cross this road without a crosswalk?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="269">YES</temporary>
+  </item>
+  <item nodeId="node-0x100ed750">
+    <command xml:space="preserve">open door with bed spring</command>
+    <result xml:space="preserve">after picking at the lock with that bed spring for a few minutes, you hear a click and the door unlocks.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xac46d20" />
+    </children>
+  </item>
+  <item nodeId="node-0xac46d20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Cell Door)
+
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0x8a0ffa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8a0ffa0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xac73f20" />
+    </children>
+  </item>
+  <item nodeId="node-0xac73f20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0x31e9a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x31e9a0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xacd6dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0xacd6dc0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb2b5440" />
+    </children>
+  </item>
+  <item nodeId="node-0xb2b5440">
+    <command xml:space="preserve">ew</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb210310" />
+    </children>
+  </item>
+  <item nodeId="node-0xb210310">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb26b4f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb26b4f0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb208f50" />
+    </children>
+  </item>
+  <item nodeId="node-0xb208f50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb21aab0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb21aab0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb267b10" />
+    </children>
+  </item>
+  <item nodeId="node-0xb267b10">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb206d30" />
+    </children>
+  </item>
+  <item nodeId="node-0xb206d30">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xaccdf60" />
+    </children>
+  </item>
+  <item nodeId="node-0xaccdf60">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xac8c720" />
+    </children>
+  </item>
+  <item nodeId="node-0xac8c720">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Your Cell
+You look around your mental ward, sitting on your worn out bed, and notice a dresser, a mirror, and your cell door to the east.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb26dab0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb26dab0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hospital hallway
+White lights blind you as you look around the hallway. you notice an exit to the north.
+
+You can see Cell Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0x16584090" />
+    </children>
+  </item>
+  <item nodeId="node-0x16584090">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hospital Entrance
+The courtyard in front of the Hospital is actually quite beautiful, especially when you&apos;re not stuck in the inside of it. The hospital entrance is to the south, and there&apos;s a road and sidewalk to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xacd8280" />
+    </children>
+  </item>
+  <item nodeId="node-0xacd8280">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+East Sidewalk
+a sidewalk running next to a very busy street. it probably wouldnt be a good idea to cross the street without a crosswalk. the street is to the north, and the sidewalk leads further to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xacded70" />
+    </children>
+  </item>
+  <item nodeId="node-0xacded70">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You take about three steps out onto the road, and you get blindsided by a bus and die upon impact. Didnt your mother ever teach you to look both ways before crossing?
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0x1658b2a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1658b2a0">
+    <command xml:space="preserve">restore</command>
+    <result xml:space="preserve">Restore failed.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0x8afadb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8afadb0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">East Sidewalk
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb2ea6b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb2ea6b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+west sidewalk
+a sidewalk running next to a very busy street. it probably wouldnt be a good idea to cross the street without a crosswalk. A crosswalk is to the north, and East sidewalk is to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="250">YES</temporary>
+    <children>
+      <child nodeId="node-0xb220a80" />
+    </children>
+  </item>
+  <item nodeId="node-0xb220a80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Crosswalk
+Theres nothing like the safety of a sidewalk. could you imagine what might happen if you tried to cross this road without a crosswalk?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="249">YES</temporary>
+  </item>
+  <item nodeId="node-0x1183e0">
     <command xml:space="preserve">take shard</command>
     <result xml:space="preserve">Taken.
 
@@ -163,10 +1278,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x725be40" />
+      <child nodeId="node-0x118390" />
     </children>
   </item>
-  <item nodeId="node-0x725be40">
+  <item nodeId="node-0x118390">
     <command xml:space="preserve">cut mattress with shard</command>
     <result xml:space="preserve">I only understood you as far as wanting to cut mattress.
 
@@ -175,10 +1290,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x725c1c0" />
+      <child nodeId="node-0x118340" />
     </children>
   </item>
-  <item nodeId="node-0x725c1c0">
+  <item nodeId="node-0x118340">
     <command xml:space="preserve">cutt matress with glass shard</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -187,10 +1302,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x725c230" />
+      <child nodeId="node-0x1182f0" />
     </children>
   </item>
-  <item nodeId="node-0x725c230">
+  <item nodeId="node-0x1182f0">
     <command xml:space="preserve">cut mattress with glass shard</command>
     <result xml:space="preserve">I only understood you as far as wanting to cut mattress.
 
@@ -199,10 +1314,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x725c2a0" />
+      <child nodeId="node-0x118280" />
     </children>
   </item>
-  <item nodeId="node-0x725c2a0">
+  <item nodeId="node-0x118280">
     <command xml:space="preserve">open matress with shard</command>
     <result xml:space="preserve">x
 &gt;</result>
@@ -210,7 +1325,7 @@ You see a glass shard and pick it up.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
   </item>
-  <item nodeId="node-0xb8ab9c0">
+  <item nodeId="node-0x118210">
     <command xml:space="preserve">open bed</command>
     <result xml:space="preserve">(Bed)
 It isn&apos;t something you can open.
@@ -220,10 +1335,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x7216cf0" />
+      <child nodeId="node-0x1181a0" />
     </children>
   </item>
-  <item nodeId="node-0x7216cf0">
+  <item nodeId="node-0x1181a0">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
 
@@ -232,10 +1347,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x7231b20" />
+      <child nodeId="node-0x1184e0" />
     </children>
   </item>
-  <item nodeId="node-0x7231b20">
+  <item nodeId="node-0x1184e0">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
 
@@ -244,10 +1359,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x9d463f0" />
+      <child nodeId="node-0x118480" />
     </children>
   </item>
-  <item nodeId="node-0x9d463f0">
+  <item nodeId="node-0x118480">
     <command xml:space="preserve">x mirror</command>
     <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
 
@@ -256,10 +1371,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0xb89e130" />
+      <child nodeId="node-0x117f90" />
     </children>
   </item>
-  <item nodeId="node-0xb89e130">
+  <item nodeId="node-0x117f90">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
 
@@ -268,10 +1383,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x72b66d0" />
+      <child nodeId="node-0x117f20" />
     </children>
   </item>
-  <item nodeId="node-0x72b66d0">
+  <item nodeId="node-0x117f20">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -280,10 +1395,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0xb881b80" />
+      <child nodeId="node-0x117eb0" />
     </children>
   </item>
-  <item nodeId="node-0xb881b80">
+  <item nodeId="node-0x117eb0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -292,10 +1407,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x4b8450" />
+      <child nodeId="node-0x117e40" />
     </children>
   </item>
-  <item nodeId="node-0x4b8450">
+  <item nodeId="node-0x117e40">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -304,10 +1419,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x3c7490" />
+      <child nodeId="node-0x117dd0" />
     </children>
   </item>
-  <item nodeId="node-0x3c7490">
+  <item nodeId="node-0x117dd0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -316,10 +1431,10 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="23">YES</temporary>
     <children>
-      <child nodeId="node-0x9d39210" />
+      <child nodeId="node-0x117d60" />
     </children>
   </item>
-  <item nodeId="node-0x9d39210">
+  <item nodeId="node-0x117d60">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -328,7 +1443,7 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
   </item>
-  <item nodeId="node-0xb85daa0">
+  <item nodeId="node-0x117cf0">
     <command xml:space="preserve">cut mattress with shard</command>
     <result xml:space="preserve">I only understood you as far as wanting to cut mattress.
 
@@ -337,10 +1452,10 @@ It isn&apos;t something you can open.
     <changed>NO</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0xb8510e0" />
+      <child nodeId="node-0x117c80" />
     </children>
   </item>
-  <item nodeId="node-0xb8510e0">
+  <item nodeId="node-0x117c80">
     <command xml:space="preserve">open mattress with shard</command>
     <result xml:space="preserve">That doesn&apos;t seem to be something you can unlock.
 
@@ -349,10 +1464,10 @@ It isn&apos;t something you can open.
     <changed>NO</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x9dbd4b0" />
+      <child nodeId="node-0x117c10" />
     </children>
   </item>
-  <item nodeId="node-0x9dbd4b0">
+  <item nodeId="node-0x117c10">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open,
 &gt;</result>
@@ -360,10 +1475,10 @@ It isn&apos;t something you can open.
     <changed>NO</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0xb86a140" />
+      <child nodeId="node-0x117ba0" />
     </children>
   </item>
-  <item nodeId="node-0xb86a140">
+  <item nodeId="node-0x117ba0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   Bed spring
@@ -374,10 +1489,10 @@ It isn&apos;t something you can open.
     <changed>NO</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0xb88a0a0" />
+      <child nodeId="node-0x117b30" />
     </children>
   </item>
-  <item nodeId="node-0xb88a0a0">
+  <item nodeId="node-0x117b30">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open,
 &gt;</result>
@@ -385,7 +1500,7 @@ It isn&apos;t something you can open.
     <changed>YES</changed>
     <temporary score="11">YES</temporary>
   </item>
-  <item nodeId="node-0xb89b7c0">
+  <item nodeId="node-0x1180d0">
     <command xml:space="preserve">x mirrow</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -394,10 +1509,10 @@ It isn&apos;t something you can open.
     <changed>NO</changed>
     <temporary score="29">YES</temporary>
     <children>
-      <child nodeId="node-0x9d49e30" />
+      <child nodeId="node-0x118020" />
     </children>
   </item>
-  <item nodeId="node-0x9d49e30">
+  <item nodeId="node-0x118020">
     <command xml:space="preserve">x mirror</command>
     <result xml:space="preserve">You look into the cracked, bloody mirror and see your reflection.
 
@@ -408,10 +1523,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="29">YES</temporary>
     <children>
-      <child nodeId="node-0xb8c4090" />
+      <child nodeId="node-0x118070" />
     </children>
   </item>
-  <item nodeId="node-0xb8c4090">
+  <item nodeId="node-0x118070">
     <command xml:space="preserve">open matress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open, and grab a bed spring.
 
@@ -420,7 +1535,7 @@ You see a glass shard and pick it up.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
   </item>
-  <item nodeId="node-0x725c310">
+  <item nodeId="node-0x117880">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">bro, really? i hope you feel good about yourself trying to hack.
 
@@ -429,10 +1544,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="13">YES</temporary>
     <children>
-      <child nodeId="node-0x725c380" />
+      <child nodeId="node-0x117810" />
     </children>
   </item>
-  <item nodeId="node-0x725c380">
+  <item nodeId="node-0x117810">
     <command xml:space="preserve">take shard</command>
     <result xml:space="preserve">Taken.
 
@@ -441,10 +1556,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="13">YES</temporary>
     <children>
-      <child nodeId="node-0x725c3f0" />
+      <child nodeId="node-0x1177a0" />
     </children>
   </item>
-  <item nodeId="node-0x725c3f0">
+  <item nodeId="node-0x1177a0">
     <command xml:space="preserve">open matress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open,
 &gt;</result>
@@ -452,10 +1567,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="13">YES</temporary>
     <children>
-      <child nodeId="node-0x725c090" />
+      <child nodeId="node-0x117730" />
     </children>
   </item>
-  <item nodeId="node-0x725c090">
+  <item nodeId="node-0x117730">
     <command xml:space="preserve">open mattress</command>
     <result xml:space="preserve">Using that sharp glass shard from the mirror, you plunge the shard deep into the mattress cover and tear it open,
 &gt;</result>
@@ -463,7 +1578,7 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="12">YES</temporary>
   </item>
-  <item nodeId="node-0x725c0e0">
+  <item nodeId="node-0x1176c0">
     <command xml:space="preserve">take shard</command>
     <result xml:space="preserve">Taken.
 
@@ -472,10 +1587,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x725c5e0" />
+      <child nodeId="node-0x117650" />
     </children>
   </item>
-  <item nodeId="node-0x725c5e0">
+  <item nodeId="node-0x117650">
     <command xml:space="preserve">open matress with shard</command>
     <result xml:space="preserve">That doesn&apos;t seem to be something you can unlock.
 
@@ -484,10 +1599,10 @@ You see a glass shard and pick it up.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x725c650" />
+      <child nodeId="node-0x1175e0" />
     </children>
   </item>
-  <item nodeId="node-0x725c650">
+  <item nodeId="node-0x1175e0">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">FUCKING FAGGOT, TRYING TO HACK IN MY GAME! I GET BET YOU USE AIMBOT AND GODMODE IN COD TOO!
 
